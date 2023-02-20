@@ -3,7 +3,6 @@ package com.study.studynote;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-
 @SpringBootApplication
 public class StudynoteApplication {
 
