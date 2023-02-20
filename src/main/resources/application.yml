@@ -7,6 +7,6 @@ spring:
       enabled: always
   datasource:
     url: jdbc:mysql://localhost:3306/studynote?characterEncoding=utf8
-    username: study
-    password: study
+    username: StudyNote
+    password: 1234
     driver-class-name: com.mysql.cj.jdbc.Driver
