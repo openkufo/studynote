@@ -7,3 +7,6 @@ spring:
     username: studynote
     password: studynote
     driver-class-name: oracle.jdbc.driver.OracleDriver
+  output:
+    ansi:
+      enabled: always
